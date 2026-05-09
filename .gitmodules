@@ -1,0 +1,45 @@
+[submodule "volksbank-fund"]
+	path = volksbank-fund
+	url = https://github.com/makerspace-gt/volksbank-fund
+[submodule "textilwerkstatt-fund"]
+	path = textilwerkstatt-fund
+	url = https://github.com/makerspace-gt/textilwerkstatt-fund
+[submodule "lasercutter-fund"]
+	path = lasercutter-fund
+	url = https://github.com/makerspace-gt/lasercutter-fund
+[submodule "macadamia-fund"]
+	path = macadamia-fund
+	url = https://github.com/makerspace-gt/macadamia-fund
+[submodule "next-level-fund"]
+	path = next-level-fund
+	url = https://github.com/makerspace-gt/next-level-fund
+[submodule "kitchen-raid-fund"]
+	path = kitchen-raid-fund
+	url = https://github.com/makerspace-gt/kitchen-raid-fund
+[submodule "rni-future-fund"]
+	path = rni-future-fund
+	url = https://github.com/makerspace-gt/rni-future-fund
+[submodule "holodeck-fund"]
+	path = holodeck-fund
+	url = https://github.com/makerspace-gt/holodeck-fund
+[submodule "replikator-fund"]
+	path = replikator-fund
+	url = https://github.com/makerspace-gt/replikator-fund
+[submodule "repair-cafe-fund"]
+	path = repair-cafe-fund
+	url = https://github.com/makerspace-gt/repair-cafe-fund
+[submodule "GehT-noch-fund"]
+	path = GehT-noch-fund
+	url = https://github.com/makerspace-gt/GehT-noch-fund
+[submodule "GehT-weiter-fund"]
+	path = GehT-weiter-fund
+	url = https://github.com/makerspace-gt/GehT-weiter-fund
+[submodule "make-it-sew-fund"]
+	path = make-it-sew-fund
+	url = https://github.com/makerspace-gt/make-it-sew-fund
+[submodule "muhaha-fund"]
+	path = muhaha-fund
+	url = https://github.com/makerspace-gt/muhaha-fund
+[submodule "MANUEL-Fund"]
+	path = MANUEL-Fund
+	url = https://github.com/makerspace-gt/MANUEL-Fund
