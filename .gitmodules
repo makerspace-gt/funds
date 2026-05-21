@@ -1,51 +1,68 @@
 [submodule "volksbank-fund"]
 	path = volksbank-fund
 	url = https://github.com/makerspace-gt/volksbank-fund
+	branch = main
 [submodule "textilwerkstatt-fund"]
 	path = textilwerkstatt-fund
 	url = https://github.com/makerspace-gt/textilwerkstatt-fund
+	branch = main
 [submodule "lasercutter-fund"]
 	path = lasercutter-fund
 	url = https://github.com/makerspace-gt/lasercutter-fund
+	branch = main
 [submodule "macadamia-fund"]
 	path = macadamia-fund
 	url = https://github.com/makerspace-gt/macadamia-fund
+	branch = main
 [submodule "next-level-fund"]
 	path = next-level-fund
 	url = https://github.com/makerspace-gt/next-level-fund
+	branch = main
 [submodule "kitchen-raid-fund"]
 	path = kitchen-raid-fund
 	url = https://github.com/makerspace-gt/kitchen-raid-fund
+	branch = main
 [submodule "rni-future-fund"]
 	path = rni-future-fund
 	url = https://github.com/makerspace-gt/rni-future-fund
+	branch = main
 [submodule "holodeck-fund"]
 	path = holodeck-fund
 	url = https://github.com/makerspace-gt/holodeck-fund
+	branch = main
 [submodule "replikator-fund"]
 	path = replikator-fund
 	url = https://github.com/makerspace-gt/replikator-fund
+	branch = main
 [submodule "repair-cafe-fund"]
 	path = repair-cafe-fund
 	url = https://github.com/makerspace-gt/repair-cafe-fund
+	branch = main
 [submodule "GehT-noch-fund"]
 	path = GehT-noch-fund
 	url = https://github.com/makerspace-gt/GehT-noch-fund
+	branch = main
 [submodule "GehT-weiter-fund"]
 	path = GehT-weiter-fund
 	url = https://github.com/makerspace-gt/GehT-weiter-fund
+	branch = main
 [submodule "make-it-sew-fund"]
 	path = make-it-sew-fund
 	url = https://github.com/makerspace-gt/make-it-sew-fund
+	branch = main
 [submodule "muhaha-fund"]
 	path = muhaha-fund
 	url = https://github.com/makerspace-gt/muhaha-fund
+	branch = main
 [submodule "MANUEL-Fund"]
 	path = MANUEL-Fund
 	url = https://github.com/makerspace-gt/MANUEL-Fund
+	branch = main
 [submodule "protokolle"]
 	path = protokolle
 	url = https://github.com/makerspace-gt/protokolle/
+	branch = main
 [submodule "satzung-dokumente"]
 	path = satzung-dokumente
 	url = https://github.com/makerspace-gt/satzung-dokumente
+	branch = main
