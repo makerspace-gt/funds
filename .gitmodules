@@ -46,3 +46,6 @@
 [submodule "protokolle"]
 	path = protokolle
 	url = https://github.com/makerspace-gt/protokolle/
+[submodule "satzung-dokumente"]
+	path = satzung-dokumente
+	url = https://github.com/makerspace-gt/satzung-dokumente
