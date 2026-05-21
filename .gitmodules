@@ -43,3 +43,6 @@
 [submodule "MANUEL-Fund"]
 	path = MANUEL-Fund
 	url = https://github.com/makerspace-gt/MANUEL-Fund
+[submodule "protokolle"]
+	path = protokolle
+	url = https://github.com/makerspace-gt/protokolle/
