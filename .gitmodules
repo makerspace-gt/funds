@@ -66,3 +66,6 @@
 	path = satzung-dokumente
 	url = https://github.com/makerspace-gt/satzung-dokumente
 	branch = main
+[submodule "IchBinJenny-CNC-fund"]
+	path = IchBinJenny-CNC-fund
+	url = https://github.com/makerspace-gt/IchBinJenny-CNC-fund.git
