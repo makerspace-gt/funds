@@ -52,3 +52,6 @@
 [submodule "IchBinJenny-CNC-fund"]
 	path = IchBinJenny-CNC-fund
 	url = https://github.com/makerspace-gt/IchBinJenny-CNC-fund.git
+[submodule "IchBinJenny-Festool-fund"]
+	path = IchBinJenny-Festool-fund
+	url = https://github.com/makerspace-gt/IchBinJenny-Festool-fund
